@@ -14,11 +14,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <td height="100%" align="left">
 <h3 align="center"> About Me </h3>
 
--  I am a full stack developer and interseted in web and mobile development
+- ⚡️I am a full stack developer and interseted in web and mobile development
 - 🌱 I’m currently learning Artificial Intelligence (AI) and Cloud Computing
 - 💻 Studies at University of Ruhuna
 - 📌 LinkedIn - [Jathusan Uthayaraj](https://www.linkedin.com/in/jathusan-uthayaraj-20b7631a6/)
-- 👨‍💻 GitHub - [Jathusan Uthayaraj](https://github.com/Jathusan19)
+- 👨‍💻 GitHub - [Jathusan19](https://github.com/Jathusan19)
+- 📄 CV - [Jathusan Uthayaraj](./Jathusan%20Uthayaraj%20-CV.pdf)
 
 </td>
 <td height="100%" align="left">
