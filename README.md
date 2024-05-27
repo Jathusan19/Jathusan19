@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=700&height=45">
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+time+to+view+my+GitHub+Profile...&center=true&width=700&height=45">
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
