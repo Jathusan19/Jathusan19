@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - 📌 LinkedIn - [Jathusan Uthayaraj](https://www.linkedin.com/in/jathusan-uthayaraj-20b7631a6/)
 - 👨‍💻 GitHub - [Jathusan19](https://github.com/Jathusan19)
 - 📄 CV - [Jathusan Uthayaraj](./Jathusan%20Uthayaraj%20-CV.pdf)
+- Contact Me At : jathurajan@gmail.com 
 
 </td>
 <td height="100%" align="left">
@@ -129,7 +130,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jathusan19&show_icons=true&hide_border=true&theme=radical" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jathusan19&theme=radical&hide_border=true" width="49%">
-  !Top Langs
+</div>
+
+---
+
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jathusan19&show_icons=true&locale=en&layout=compact" alt="Jathusan19" ;"/></p>
+
 
 </div>
 
