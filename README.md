@@ -129,6 +129,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jathusan19&show_icons=true&hide_border=true&theme=radical" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jathusan19&theme=radical&hide_border=true" width="49%">
+  !Top Langs
+
 </div>
 
 ---
