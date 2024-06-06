@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - 📌 LinkedIn - [Jathusan Uthayaraj](https://www.linkedin.com/in/jathusan-uthayaraj-20b7631a6/)
 - 👨‍💻 GitHub - [Jathusan19](https://github.com/Jathusan19)
 - 📄 CV - [Jathusan Uthayaraj](./Jathusan%20Uthayaraj%20-CV.pdf)
-- Contact Me At : jathurajan@gmail.com 
+- Contact Me  : jathurajan@gmail.com 
 
 </td>
 <td height="100%" align="left">
