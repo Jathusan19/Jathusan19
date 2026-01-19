@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <h3 align="center"> About Me </h3>
 
 - ⚡️I am a full stack developer interseted in web and mobile development
-- 🌱 I’m currently learning Artificial Intelligence (AI) and Cloud Computing
+- 🌱 I’m currently focusing on Artificial Intelligence (AI) and Cloud Computing
 - 💻 Studies at University of Ruhuna
 - 📌 LinkedIn - [Jathusan Uthayaraj](https://www.linkedin.com/in/jathusan-uthayaraj-20b7631a6/)
 - 👨‍💻 GitHub - [Jathusan19](https://github.com/Jathusan19)
